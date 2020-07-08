@@ -5,7 +5,7 @@ router.get('/', function(req, res, next) {
   res.json({
     id: 1,
     name: 'iPhone 11',
-    price: 10000.00
+    price: 9999.00
   });
 });
 
